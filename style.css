@@ -1,0 +1,59 @@
+.qwq {
+    border: 5px rgb(0, 255, 255) solid;
+    padding-bottom: 10px; 
+    padding-top: 10px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.wqw {
+    border: 5px rgb(0, 255, 0) solid;
+    text-align: right;
+    text-transform: uppercase;
+    background-image: linear-gradient(to right, rgb(251, 255, 0), rgb(0, 68, 255));
+}
+.ere {
+    color: brown;
+    list-style-position: inside;
+}
+.ewe {
+    color: aqua;
+    font-size: 20px;
+}
+.wew {
+    color: blue;
+    border: 1px red solid;
+}
+.rtr{
+    color: blueviolet;
+    background-color: aqua;
+    margin-bottom: 2px;
+}
+.lst3 li {
+    color: red;
+}
+
+.lst3 li:first-child {
+    color: purple;
+}
+.lst3 li:last-child {
+    color: purple;
+}
+.lst3 li:nth-child(2) {
+    color: purple;
+}
+.trt {
+text-shadow: 1px 3px 5px green ;
+}
+.tyt img{
+display: block;
+margin-bottom: 5px;
+}
+.tyt {
+    background-color: aqua;
+    border-top: 3px solid rgb(0, 255, 0);
+    border-bottom: 3px dashed;
+
+}
+.tyt img:nth-child(2) {
+    opacity: 0.3;
+}
